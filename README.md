@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🤖 AI Job Description Analyzer
 
 An AI and Machine Learning based web application that analyzes job descriptions and evaluates their overall quality.
@@ -177,7 +174,7 @@ AI_Job_Description_Analyzer/
 │   └── index.html
 │
 └── README.md
-````
+```
 
 ---
 
@@ -208,7 +205,7 @@ python app.py
 After running the application, open the following address in your browser:
 
 ```text
-http://127.0.0.1:5000
+[http://127.0.0.1:5000](http://127.0.0.1:5000)
 ```
 
 ---
@@ -300,9 +297,4 @@ Future versions of the system can include:
 * Resume-to-job matching
 * Multi-language support
 * Advanced analytics dashboard
-
----
-
-
-
 
