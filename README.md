@@ -205,7 +205,7 @@ python app.py
 After running the application, open the following address in your browser:
 
 ```text
-[http://127.0.0.1:5000](http://127.0.0.1:5000)
+http://127.0.0.1:5000
 ```
 
 ---
